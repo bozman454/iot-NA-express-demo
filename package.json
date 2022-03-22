@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bozman454/iot-NA-express-demo#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.17.3"
   }
 }
